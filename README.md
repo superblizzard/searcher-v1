@@ -16,4 +16,4 @@ pip3 install sentencepiece
 
 2, download searcher.zip and unzip it.
 
-3, go the "searcher" directory and run "python3 wikipedia_searcher.py".
+3, go to the "searcher" directory and run "python3 wikipedia_searcher.py".
